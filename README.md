@@ -40,6 +40,7 @@ f. Click OK to close the Environment Variables dialog and the System Properties 
 After setting an environment variable through the Environment Variables dialog, you will need to restart any open Command 
 
 
+![image](https://github.com/Sarthak115/fast_hack/assets/74663526/614843ed-ce87-428c-9cce-7dae3e1848e9)
 
 
 
@@ -64,11 +65,21 @@ OpenWeatherMap API: This is a third-party web service that processes the HTTP re
 
 
 
+
+how we used copilot----
+GitHub Copilot suggested the printing statement. We provided it with the API request code, and GitHub Copilot wrote the printing statement.
+I wanted to fetch all possible key weather information like weather description, temperature, humidity, wind speed etc from OpenWeatherMap API.When provided this information to GitHub Copilot, I got the best SUGGESTION  to build the function to retrive the API key from Environment variable, validate city name with exception handling. Its really amazing how Copilot generated each of the functions based on my direction of features.
+
+![image](https://github.com/Sarthak115/fast_hack/assets/74663526/3e2484c3-734e-43df-818c-c939afd431a6)
+
 USAGE:
 Run the "fast.py" script and provide the name of the city as input when prompted.
 Example input: Enter city name: DELHI
 
 Sample output received during hackathon:
+
+
+![image](https://github.com/Sarthak115/fast_hack/assets/74663526/5394c177-ee4a-4dff-b2b0-a397bac6c96b)
 
 
 
