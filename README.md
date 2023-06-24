@@ -39,6 +39,9 @@ f. Click OK to close the Environment Variables dialog and the System Properties 
 
 After setting an environment variable through the Environment Variables dialog, you will need to restart any open Command 
 
+architecture diagram for code---------------------
+
+
 
 ![image](https://github.com/Sarthak115/fast_hack/assets/74663526/614843ed-ce87-428c-9cce-7dae3e1848e9)
 
